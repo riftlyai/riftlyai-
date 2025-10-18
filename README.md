@@ -93,3 +93,7 @@ Include the `x-riftly-signature` header if `RIFTLY_WEBHOOK_SECRET` is set. The e
 - Manually post sample lead payloads to `/api/webhooks/lead` to verify Supabase inserts and Twilio outreach.
 - Use Twilio's testing tools to simulate voice and WhatsApp interactions.
 - Confirm calendar events are created for booked consultations.
+# RiftlyAI
+
+This is the initial commit for the RiftlyAI project.  
+More details will be added soon.
